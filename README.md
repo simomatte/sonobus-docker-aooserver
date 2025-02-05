@@ -2,11 +2,11 @@
 
 Repo based on both
 
-*essej/aooserver* github repo [https://github.com/essej/sonobus] *for base Sonobus aooserver files*
+**essej/aooserver** github repo [https://github.com/essej/sonobus] **for base Sonobus aooserver files**
 
 and
 
-*topjor/sonobus-aooserver* github repo [https://github.com/topjor/sonobus-aooserver] *for Dockerfile*
+**topjor/sonobus-aooserver** github repo [https://github.com/topjor/sonobus-aooserver] **for Dockerfile**
 
 ---
 
@@ -14,7 +14,7 @@ This repository will simply automate Docker container builds with Github actions
 
 The aooserver files to be compiled are automatically fetched from essej/aooserver repo when building images.
 
-Using *debian:stable* for the builder container and *debian:stable-slim* images for the service container.
+Using **debian:stable** for the builder container and **debian:stable-slim** images for the service container.
 
 The amd64 and arm64 builds can be fetched using:
 ```
