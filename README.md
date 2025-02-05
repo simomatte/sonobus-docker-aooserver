@@ -2,7 +2,7 @@
 
 Repo based on both
 
-essej/aooserver github repo [https://github.com/essej/sonobus] *for base aooserver files*
+essej/aooserver github repo [https://github.com/essej/sonobus] *for base Sonobus aooserver files*
 
 and
 
