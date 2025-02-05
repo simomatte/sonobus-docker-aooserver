@@ -29,4 +29,9 @@ Using the container image:
 
     docker run -p 10998:10998/udp -p 10998:10998 ghcr.io/simomatte/sonobus-docker-aooserver:latest
 
-How to run with flags: `docker run -p PORT:PORT/udp -p PORT:PORT ghcr.io/simomatte/sonobus-docker-aooserver:latest aooserver [flags]`
+How to run with flags: 
+```
+docker run -p PORT:PORT/udp -p PORT:PORT ghcr.io/simomatte/sonobus-docker-aooserver:latest aooserver [flags]
+```
+
+A docker-compose.yml file is included in the repository for usage with docker compose
