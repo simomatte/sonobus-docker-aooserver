@@ -13,7 +13,7 @@ This repository will simply automate Docker container builds with Github actions
 
 The aooserver files are automatically fetched from essej/sonobus repo when building.
 
-Dockerfile are using *debian:stable* and *debian:stable-slim* images.
+Using *debian:stable* for the builder container and *debian:stable-slim* images for the service container.
 
 The amd64 and arm64 builds can be fetched using:
 ```
