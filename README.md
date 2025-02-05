@@ -20,3 +20,13 @@ The amd64 and arm64 builds can be fetched using:
 ```
 docker pull ghcr.io/simomatte/sonobus-docker-aooserver:latest
 ```
+
+---
+
+# USAGE WITH DOCKER
+
+Using the container image:
+
+    docker run -p 10998:10998/udp -p 10998:10998 ghcr.io/simomatte/sonobus-docker-aooserver:latest
+
+How to run with flags: `docker run -p PORT:PORT/udp -p PORT:PORT ghcr.io/simomatte/sonobus-docker-aooserver:latest aooserver [flags]`
