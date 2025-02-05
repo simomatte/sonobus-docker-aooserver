@@ -9,7 +9,7 @@ topjor/sonobus-aooserver github repo [https://github.com/topjor/sonobus-aooserve
 
 ---
 
-This repository will simply automate Docker container builds with Github actions and publish them on _ghcr.io_.
+This repository will simply automate Docker container builds with Github actions and publish on _ghcr.io_.
 
 The aooserver files are automatically fetched from essej/sonobus repo when building.
 
