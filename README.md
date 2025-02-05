@@ -2,11 +2,11 @@
 
 Repo based on both
 
-**essej/aooserver** github repo [https://github.com/essej/sonobus] **for base Sonobus aooserver files**
+**essej/aooserver** github repo [[https://github.com/essej/aooserver](https://github.com/essej/aooserver)] **for base Sonobus aooserver files**
 
 and
 
-**topjor/sonobus-aooserver** github repo [https://github.com/topjor/sonobus-aooserver] **for Dockerfile**
+**topjor/sonobus-aooserver** github repo [[https://github.com/topjor/sonobus-aooserver](https://github.com/topjor/sonobus-aooserver)] **for Dockerfile**
 
 ---
 
