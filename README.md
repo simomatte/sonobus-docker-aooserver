@@ -16,7 +16,7 @@ The aooserver files to be compiled are automatically fetched from essej/aooserve
 
 Using **debian:stable** for the builder container and **debian:stable-slim** images for the service container.
 
-The amd64 and arm64 builds can be fetched using:
+The **amd64** and **arm64** builds can be fetched using:
 ```
 docker pull ghcr.io/simomatte/sonobus-docker-aooserver:latest
 ```
