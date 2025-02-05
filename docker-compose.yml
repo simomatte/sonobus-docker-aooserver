@@ -1,0 +1,6 @@
+services:
+  node:
+    image: "ghcr.io/simomatte/sonobus-docker-aooserver:latest"
+    ports:
+      - "10998:10998/tcp"
+      - "10998:10998/udp"
