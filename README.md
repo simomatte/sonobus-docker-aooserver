@@ -2,7 +2,7 @@
 
 Repo based on both
 
-essej/aooserver github repo [https://github.com/essej/sonobus] *for base aooserver files to be compiled*
+essej/aooserver github repo [https://github.com/essej/sonobus] *for base aooserver files*
 
 and
 
@@ -12,7 +12,7 @@ topjor/sonobus-aooserver github repo [https://github.com/topjor/sonobus-aooserve
 
 This repository will simply automate Docker container builds with Github actions and publish on _ghcr.io_.
 
-The aooserver files are automatically fetched from essej/sonobus repo when building.
+The aooserver files to be compiled are automatically fetched from essej/sonobus repo when building images.
 
 Using *debian:stable* for the builder container and *debian:stable-slim* images for the service container.
 
