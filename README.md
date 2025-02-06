@@ -1,5 +1,9 @@
 # Sonobus Docker AoO server
 
+Docker image for Sonobus AoO connection server
+
+---
+
 Repo based on both
 
 **essej/aooserver** github repo [[https://github.com/essej/aooserver](https://github.com/essej/aooserver)] **for base Sonobus aooserver files**
