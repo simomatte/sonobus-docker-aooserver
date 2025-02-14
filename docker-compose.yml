@@ -1,5 +1,5 @@
 services:
-  node:
+  aooserver:
     image: "ghcr.io/simomatte/sonobus-docker-aooserver:latest"
     ports:
       - "10998:10998/tcp"
