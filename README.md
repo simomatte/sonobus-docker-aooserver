@@ -1,6 +1,6 @@
 # Sonobus Docker AoO server
 
-Docker image for Sonobus AoO connection server
+Docker image for Sonobus AoO connection server, also published in GHCR
 
 ---
 
